@@ -57,3 +57,5 @@
     "autoprefixer": "^10.4.16"
   }
 }
+"@supabase/ssr": "^0.0.10",
+"tailwind-merge": "^2.0.0",
